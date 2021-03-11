@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "http://jorgesolano.com"
 title = "Jorge Solano"
 
 theme = "hugo-coder"
@@ -19,8 +19,8 @@ pygmentsCodeFencesGuessSyntax = true
     description = "Frontend Developer"
     keywords = "blog,developer, frontend developer,personal"
     info = "Frontend Developer"
-    avatarURL = "images/avatar.jpg"
-    #gravatar = "john.doe@example.com"
+    avatarURL = "images/jorgesolanoprofile.jpeg"
+    #gravatar = "jorgesolano.com"
     #footerContent = "Enter a text here."
 
     dateFormat = "January 2, 2006"
