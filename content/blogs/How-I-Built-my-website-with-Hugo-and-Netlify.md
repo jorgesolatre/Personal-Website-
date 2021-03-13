@@ -22,5 +22,5 @@ Once I finished customizing everything, it was time to make it public so I opted
 
 I am incredibly happy with the results obtained, especially because of the loading speed, which was something that interested me a lot. According to [Pagespeed-Insights](https://developers.google.com/speed/pagespeed/insights/) the site offers speed of 99 on mobile devices and 100 on PC.
 
-Here is the repository in case of interest: https://github.com/jorgesolatre/Personal-Website-
+Here is the repository in case of interest: [Repository](https://github.com/jorgesolatre/Personal-Website-)
 
