@@ -19,3 +19,5 @@ To continue improving my CSS skills I decided to practice with some pure CSS dra
 | z-index | CSS |
 | overflow-hidden | CSS |
 
+
+tags = css, html
