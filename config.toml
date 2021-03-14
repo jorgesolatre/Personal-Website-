@@ -22,6 +22,7 @@ pygmentsCodeFencesGuessSyntax = true
     avatarURL = "images/jorgesolanoprofile.jpeg"
     #gravatar = "jorgesolano.com"
     #footerContent = "Enter a text here."
+    favicon = "images/favicon-32x32.png"
 
     dateFormat = "January 2, 2006"
 
