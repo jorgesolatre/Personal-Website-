@@ -5,6 +5,7 @@ draft: false
 categories: ["Mini-Projects"]
 tags: ["Javascript"]
 ---
+
 Animation effect for cards and images made with HTML, CSS & Javascript.
 
 {{< figure src="/images/expanding-cards-javascript.JPG" height= 350px >}}
