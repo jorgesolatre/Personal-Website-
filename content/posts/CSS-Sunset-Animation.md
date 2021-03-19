@@ -1,14 +1,9 @@
 ---
-draft = false
-date = 2021-03-14T21:23:42-06:00
-title = "CSS Sunset Animation"
-description = ""
-slug = ""
-authors = []
+title: "CSS Sunset Animation"
+date: 2021-03-18T19:52:31-06:00
+draft: false
 tags: ["CSS"]
-categories: ["CSS Drawings", "Mini Projects"]
-externalLink = ""
-series = []
+categories: ["CSS Drawing"]
 ---
 
 For this time I created a sunset animation made with full CSS, to get this effect I had to use a different animation for each element (sun-moon-sky). To decorate I added a forest silhouette.

@@ -2,8 +2,8 @@
 title: "CSS Pokeball Drawing"
 date: 2021-03-18T19:52:31-06:00
 draft: false
-categories: ["CSS"]
-tags: ["CSS Drawing"]
+tags: ["CSS"]
+categories: ["CSS Drawing","Mini-Projects"]
 ---
 
 To continue improving my CSS skills I decided to practice with some pure CSS drawings. For this case I created a Pokeball with a load animation.

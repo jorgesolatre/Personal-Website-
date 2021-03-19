@@ -1,14 +1,9 @@
---- 
-draft = false
-date = 2021-03-12T21:23:21-06:00
-title = "CSS Owl Drawing"
-description = ""
-slug = ""
-authors = []
+---
+title: "CSS Owl Drawing"
+date: 2021-03-18T19:52:31-06:00
+draft: false
 tags: ["CSS"]
-categories: ["CSS Drawings", "Mini-Projects"]
-externalLink = ""
-series = []
+categories: ["CSS Drawing"]
 ---
 
 To continue improving my CSS skills I decided to practice with some pure CSS drawings. For this case I created a Sleepy Owl with a blink animation. 
