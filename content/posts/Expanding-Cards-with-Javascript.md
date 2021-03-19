@@ -1,6 +1,6 @@
 ---
 title: "Expanding Cards with Javascript"
-date: 2021-03-18T19:52:31-06:00
+date: 2021-03-06T19:52:31-06:00
 draft: false
 categories: ["Mini-Projects"]
 tags: ["Javascript"]

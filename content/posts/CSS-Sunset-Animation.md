@@ -1,6 +1,6 @@
 ---
 title: "CSS Sunset Animation"
-date: 2021-03-18T19:52:31-06:00
+date: 2021-03-15T19:52:31-06:00
 draft: false
 tags: ["CSS"]
 categories: ["CSS Drawing", "Mini-Projects"]
