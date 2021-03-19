@@ -7,6 +7,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 paginate = 20
+canonifyURLs = true
 
 pygmentsStyle = "b2"
 pygmentsCodeFences = true
@@ -119,9 +120,10 @@ pygmentsCodeFencesGuessSyntax = true
 
 [taxonomies]
   category = "categories"
-  series = "series"
+  serie = "series"
   tag = "tags"
   author = "authors"
+  hola = "holas"
 
 [[params.social]]
     name = "Github"
@@ -163,9 +165,6 @@ pygmentsCodeFencesGuessSyntax = true
             [[languages.en.menu.main]]
             name = "Blog"
             weight = 2
-            url = "blogs/"
+            url = "posts/"
 
-            [[languages.en.menu.main]]
-            name = "Projects"
-            weight = 3
-            url = "projects/"
+        

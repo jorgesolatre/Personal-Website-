@@ -1,8 +1,15 @@
----
-title: "Expanding Cards With Javascript"
-date: 2021-03-09T12:31:42-06:00
-draft: false
----
++++ 
+draft = true
+date = 2021-03-05T21:19:09-06:00
+title = "Expanding Cards with Javascript"
+description = ""
+slug = ""
+authors = []
+tags = ["Javascript"]
+categories = ["Mini-Projects"]
+externalLink = ""
+series = []
++++
 
 Animation effect for cards and images made with HTML, CSS & Javascript.
 

@@ -1,7 +1,8 @@
 ---
 title: "How I Built My Website With Hugo and Netlify"
-date: 2021-03-09T12:33:34-06:00
+date: 2021-03-03T21:19:09-06:00
 draft: false
+tags: ["Website"]
 ---
 
  I started in the world of web development, shortly after I was able to carry out my first personal projects, I immediately realized that it was time to create my personal website, from the beginning I knew that these were the characteristics I needed:
