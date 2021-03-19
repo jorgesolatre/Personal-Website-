@@ -6,7 +6,7 @@ tags: ["CSS"]
 categories: ["CSS Drawing","Mini-Projects"]
 ---
 
-To continue improving my CSS skills I decided to practice with some pure CSS drawings. For this case I created a Pokeball with a load animation.
+To continue improving my CSS skills I decided to practice with some pure CSS drawings. For this case I created a Pokeball with a soft animation.
 
 {{< figure src="/images/pure.css-pokeball.JPG" height= 350px width= 350px >}}
 
