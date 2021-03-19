@@ -1,15 +1,10 @@
-+++ 
-draft = true
-date = 2021-03-10T21:15:35-06:00
-title = "CSS Pokeball Drawing"
-description = ""
-slug = ""
-authors = []
-tags = ["CSS"]
-categories = ["CSS Drawings", "Mini-Projects"]
-externalLink = ""
-series = []
-+++
+---
+title: "CSS Pokeball Drawing"
+date: 2021-03-18T19:52:31-06:00
+draft: false
+categories: ["CSS"]
+tags: ["CSS Drawing"]
+---
 
 To continue improving my CSS skills I decided to practice with some pure CSS drawings. For this case I created a Pokeball with a load animation.
 
