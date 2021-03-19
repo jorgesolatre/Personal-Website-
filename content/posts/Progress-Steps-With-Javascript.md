@@ -1,7 +1,7 @@
 ---
 title: "Progress Steps With Javascript"
 date: 2021-03-18T19:52:31-06:00
-draft: true
+draft: false
 categories: ["Mini-Projects"]
 tags: ["Javascript"]
 ---
