@@ -15,6 +15,6 @@ I was looking for new challenges to improve my CSS skills when I found a perfect
 
 ## What I learned with this project
 
-This project reinforced my knowledge with the "transform" element, I also understood how 3D works in CSS and I discovered the "nth-child ()" function, which I used to place the numbers on the different faces of the die.
+This project reinforced my knowledge with the "transform" property, I also understood how 3D works in CSS and I discovered the "nth-child ()" selector, which I used to place the numbers on the different faces of the die.
 
 {{< figure src="/images/carbon-dice.png">}}
